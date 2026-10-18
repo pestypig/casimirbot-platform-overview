@@ -71,6 +71,8 @@ The historical full-platform repository remains private while its reachable hist
 | [Selected tools preview](https://github.com/pestypig/casimirbot-tools-source-preview) | 111 selected research and verification tools; not a runnable toolchain. |
 | [Top-level test preview](https://github.com/pestypig/casimirbot-top-level-tests-source-preview) | 724 selected tests; not a standalone runnable suite. |
 | [Shared-linked test preview](https://github.com/pestypig/casimirbot-shared-linked-tests-source-preview) | 309 selected tests linked to public shared contracts; not a standalone suite. |
+| [Research Python preview](https://github.com/pestypig/casimirbot-research-python-source-preview) | 359 first-party Python files; upstream archives excluded, no scientific proof claim. |
+| [Server test preview](https://github.com/pestypig/casimirbot-server-tests-source-preview) | 1,368 selected tests; held auth and sessionized-URL paths excluded. |
 
 Each source repository describes its own build limits and third-party notices. The larger source-only previews are for inspection and reuse, not independently runnable CasimirBot installations. The public [Agent Access guide](https://casimirbot.com/agent-access) describes supported account-scoped connections; [public reasoning context](https://casimirbot.com/llms.txt) can be read without a private connection.
 
