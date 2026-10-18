@@ -2,9 +2,9 @@
 
 CasimirBot is a Windows research workstation and environment harness for working with AI inside real software. Its desktop brings together scientific tools, evidence views, account and connection checkpoints, and governed links to external programs. A supported AI client can inspect an admitted capability, receive an observation, and request a bounded operation when the account, program owner, and connector allow it.
 
-The [website](https://casimirbot.com/) handles CasimirBot account identity and public release information. The [download page](https://casimirbot.com/download) is the source for the signed Windows installer and its current publisher and checksum. These desktop screenshots come from **R173 and R176 isolated private developer builds**. They show dated test workflows; they are not evidence that the public installer exposes every panel or that every connection is ready.
+The [website](https://casimirbot.com/) handles CasimirBot account identity and public release information. The [download page](https://casimirbot.com/download) is the source for the signed Windows installer and its current publisher and checksum. These desktop screenshots come from **R173, R176, and R177 isolated private developer builds**. They show dated test workflows; they are not evidence that the public installer exposes every panel or that every connection is ready.
 
-![CasimirBot private R176 Home view with read-only Adapter AI activity](images/casimirbot-r176-home-2026-10-18.jpg)
+![CasimirBot private R177 Home view with the four workspace paths](images/casimirbot-r177-home-2026-10-18.jpg)
 
 ## Website identity and the installed workspace
 
@@ -24,7 +24,9 @@ The cropped account overview below shows generic signed-in status and next steps
 4. **Ask for an observation or bounded action.** The AI client selects an available capability. CasimirBot checks identity, context, consent, and scope, then returns an observation or a typed result with postcondition evidence. Where a prerequisite is missing, the workflow should report that failure rather than inventing a successful action.
 5. **Inspect the evidence.** Research panels distinguish inputs, diagnostic models, calculated results, and verification receipts. A badge or screenshot does not establish a physical result.
 
-The October 18 **R176 private build** starts from Home with free personal tools, a user-owned AI connection, hosted rooms, and planned CasimirBot-managed AI. Its pictured Adapter AI pane is read-only run activity, with no current exact-task binding or verified run. The private environment catalog was unavailable in this isolated profile. The Minecraft Adapter tile is a developer path, not permission for player actions.
+The October 18 **R176 private build** starts from Home with free personal tools, a user-owned AI connection, hosted rooms, and planned CasimirBot-managed AI. Its [dated Home capture](images/casimirbot-r176-home-2026-10-18.jpg) shows read-only Adapter AI activity, with no current exact-task binding or verified run. The private environment catalog was unavailable in this isolated profile. The Minecraft Adapter tile is a developer path, not permission for player actions.
+
+The later **R177 unpacked private build** kept those four Home paths and still showed the environment catalog unavailable in its isolated profile. Account & Sessions showed the website account connected to that installation; the selected Personal Codex local entry in Agent Access still reported `build_unavailable` with no verified current exact-task binding. Device Check showed 0 paired devices, no credentials projected, and the local tunnel stopped. Its Desktop Updates panel reported **no installed update channel**. That R177 state is a developer-build observation, not a signed-installer or public update-channel result.
 
 R176 Desktop Updates showed the private development channel, R176 running, and R175 retained for rollback. This is a private-build state, not a signed public installer or a public update-channel acceptance result. Agent Access separately showed `build_unavailable` for the selected Personal Codex local entry and no verified current exact-task binding; Device Check showed 0 paired devices, no credentials projected, and its read-only local tunnel stopped.
 
