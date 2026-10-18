@@ -80,6 +80,7 @@ The historical full-platform repository remains private while its reachable hist
 | [NHM2 script preview](https://github.com/pestypig/casimirbot-nhm2-scripts-source-preview) | 445 selected first-party research scripts; source only, no proof or viability claim. |
 | [NHM2 tool preview](https://github.com/pestypig/casimirbot-nhm2-tools-source-preview) | 632 selected first-party research tools; external dependencies excluded, P8Q remains proposal preparation. |
 | [Environment package scripts preview](https://github.com/pestypig/casimirbot-environment-package-scripts-source-preview) | 28 selected first-party tooling files; source only, no private evaluation package or installed connector. |
+| [Scientific visualization preview](https://github.com/pestypig/casimirbot-scientific-visualization-source-preview) | 29 first-party TypeScript equation, figure, and rendering files; no observations, proof, or physical-viability claim. |
 
 Each source repository describes its own build limits and third-party notices. The larger source-only previews are for inspection and reuse, not independently runnable CasimirBot installations. The public [Agent Access guide](https://casimirbot.com/agent-access) describes supported account-scoped connections; [public reasoning context](https://casimirbot.com/llms.txt) can be read without a private connection.
 
