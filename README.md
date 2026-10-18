@@ -6,6 +6,16 @@ The [website](https://casimirbot.com/) handles CasimirBot account identity and p
 
 ![CasimirBot private R176 Home view with read-only Adapter AI activity](images/casimirbot-r176-home-2026-10-18.jpg)
 
+## Website identity and the installed workspace
+
+The [website](https://casimirbot.com/) introduces the download and account paths. Its October 17 Home capture describes CasimirBot as a download-first workspace for people, agents, and programs. Check the live [download page](https://casimirbot.com/download) for release availability, publisher, and installer checksum; the image is a dated view.
+
+![CasimirBot website Home with download and account paths](images/casimirbot-com-home-2026-10-17.jpg)
+
+The cropped account overview below shows generic signed-in status and next steps for the installed harness. It contains no email or installation identifier. Website sign-in establishes identity; linking an installation begins from Account & Sessions in the app when available. Sign-in alone does not grant AI, room, or program access. This dated capture does not show account creation, OAuth completion, or an AI client connection.
+
+![CasimirBot website account overview and installed-harness guidance](images/casimirbot-com-account-overview-2026-10-17.jpg)
+
 ## How a workflow proceeds
 
 1. **Open the desktop and check identity.** Account & Sessions shows whether the website account is connected to this installation. Website sign-in alone does not grant AI, room, device, or program authority.
