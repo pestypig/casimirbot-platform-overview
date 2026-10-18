@@ -84,6 +84,8 @@ The historical full-platform repository remains private while its reachable hist
 | [Solar G1 preparation preview](https://github.com/pestypig/casimirbot-solar-g1-source-preview) | 19 first-party preparation scripts; MESA and author inputs excluded, no admitted run or proof claim. |
 | [Build and test configuration preview](https://github.com/pestypig/casimirbot-build-config-source-preview) | Nine first-party configuration files; dependencies and runnable platform omitted. |
 | [Small example and tool roots preview](https://github.com/pestypig/casimirbot-small-tools-source-preview) | Five first-party files; no bundled model, training data, or measured result. |
+| [Platform roots preview](https://github.com/pestypig/casimirbot-platform-roots-source-preview) | 69 selected mixed first-party source files; disconnected modules, not a runnable platform or grant of authority. |
+| [Minecraft Fabric/core preview](https://github.com/pestypig/casimirbot-minecraft-fabric-core-source-preview) | 192 selected first-party Java files; no game assets, binaries, installed mod, or player authority. |
 
 Each source repository describes its own build limits and third-party notices. The larger source-only previews are for inspection and reuse, not independently runnable CasimirBot installations. The public [Agent Access guide](https://casimirbot.com/agent-access) describes supported account-scoped connections; [public reasoning context](https://casimirbot.com/llms.txt) can be read without a private connection.
 
