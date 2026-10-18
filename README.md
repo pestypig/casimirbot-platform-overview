@@ -12,6 +12,10 @@ The [website](https://casimirbot.com/) introduces the download and account paths
 
 ![CasimirBot website Home with download and account paths](images/casimirbot-com-home-2026-10-17.jpg)
 
+The live Home page also offers [free public AI context](https://casimirbot.com/llms.txt) for questions about society, science, and welfare. Its Civilization Bounds, Theory Badge Graph, and Moral Graph lenses organize questions and point to source contracts; they do not supply facts, prove a theory, or connect an AI to a tool. The October 18 capture below shows this public context. [Connected MCP tools](https://casimirbot.com/agent-access) require a separate authorized account and connection.
+
+![CasimirBot website public context lenses on October 18, 2026](images/casimirbot-com-public-context-2026-10-18.png)
+
 The October 18 download-page capture shows the separate public installer listing for **0.1.0-alpha.23**, with publisher and SHA-256 displayed on the website. Check the [live download page](https://casimirbot.com/download) before downloading; this dated image is not an installer signature or local hash verification. The R173–R177 desktop images below are private developer builds, not this listed release.
 
 ![CasimirBot website download listing on October 18, 2026](images/casimirbot-com-download-2026-10-18.png)

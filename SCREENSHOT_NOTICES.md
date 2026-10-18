@@ -1,6 +1,6 @@
 # Screenshot provenance and limits
 
-The four R173 PNGs in `images/` are deterministic crops of the isolated private developer desktop captured on October 17, 2026. The two R176 JPEGs and one R177 JPEG are unedited full-window captures of isolated private developer desktops on October 18, 2026. The R176 views show Home with read-only Adapter AI activity and Desktop Updates; the R177 view shows Home. Two further JPEGs are dated captures of casimirbot.com Home and a cropped signed-in account overview. One PNG is a dated full-window view of the public download listing. The account crop excludes connected-installation rows. The visible images do not show an email, device identifier, private conversation, task or pairing details, local Minecraft path, or credential. The R176 and R177 JPEGs and the download PNG had no EXIF tags in the local metadata review. Full R177 Account & Sessions and Device Check captures were retained only in private review material because those panels display identifiers or local paths.
+The four R173 PNGs in `images/` are deterministic crops of the isolated private developer desktop captured on October 17, 2026. The two R176 JPEGs and one R177 JPEG are unedited full-window captures of isolated private developer desktops on October 18, 2026. The R176 views show Home with read-only Adapter AI activity and Desktop Updates; the R177 view shows Home. Two further JPEGs are dated captures of casimirbot.com Home and a cropped signed-in account overview. Two PNGs are dated browser captures of the public download listing and public-context lenses. The account crop excludes connected-installation rows. The visible images do not show an email, device identifier, private conversation, task or pairing details, local Minecraft path, or credential. The R176 and R177 JPEGs and the download PNG had no EXIF tags in the local metadata review. Full R177 Account & Sessions and Device Check captures were retained only in private review material because those panels display identifiers or local paths.
 
 | Image | SHA-256 |
 | --- | --- |
@@ -12,6 +12,7 @@ The four R173 PNGs in `images/` are deterministic crops of the isolated private 
 | `casimirbot-r176-desktop-updates-2026-10-18.jpg` | `28277614761b45e3f03f3e47817ab41205448d30db2c605e45f77047964c7b2d` |
 | `casimirbot-r177-home-2026-10-18.jpg` | `5ee1717283058b85dc725e0cdb6607e41477b3b55a1733a5ba617387cc865c69` |
 | `casimirbot-com-home-2026-10-17.jpg` | `22935bffda4af156e100fe2f7b4963a8bcd0552c9564d54357cf35ab5e2fc656` |
+| `casimirbot-com-public-context-2026-10-18.png` | `0f3042de9d82e053300fa524ad39e4196f5d4c60c849267b44d9e5ff010af929` |
 | `casimirbot-com-account-overview-2026-10-17.jpg` | `db1d2a7f7ccf281aae87866f55721191f1fcf8761c5576dd8b0b9487b9cc7a6d` |
 | `casimirbot-com-download-2026-10-18.png` | `25a70e7a5e9254df71dad3d935a8f9cc6ba5f486c19329078fa0ac7c2fc01c75` |
 
