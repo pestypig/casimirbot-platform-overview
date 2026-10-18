@@ -12,6 +12,10 @@ The [website](https://casimirbot.com/) introduces the download and account paths
 
 ![CasimirBot website Home with download and account paths](images/casimirbot-com-home-2026-10-17.jpg)
 
+The October 18 download-page capture shows the separate public installer listing for **0.1.0-alpha.23**, with publisher and SHA-256 displayed on the website. Check the [live download page](https://casimirbot.com/download) before downloading; this dated image is not an installer signature or local hash verification. The R173–R177 desktop images below are private developer builds, not this listed release.
+
+![CasimirBot website download listing on October 18, 2026](images/casimirbot-com-download-2026-10-18.png)
+
 The cropped account overview below shows generic signed-in status and next steps for the installed harness. It contains no email or installation identifier. Website sign-in establishes identity; linking an installation begins from Account & Sessions in the app when available. Sign-in alone does not grant AI, room, or program access. This dated capture does not show account creation, OAuth completion, or an AI client connection.
 
 ![CasimirBot website account overview and installed-harness guidance](images/casimirbot-com-account-overview-2026-10-17.jpg)
