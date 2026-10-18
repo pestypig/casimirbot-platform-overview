@@ -64,7 +64,8 @@ The historical full-platform repository remains private while its reachable hist
 | [Verifier source](https://github.com/pestypig/casimirbot-verifier-source) | MIT-licensed Shadow of Intent SDK, CLI, and scaffolder source. |
 | [Shared TypeScript preview](https://github.com/pestypig/casimirbot-shared-source-preview) | Selected shared contracts, policies, research metadata, and tests. |
 | [Desktop host preview](https://github.com/pestypig/casimirbot-desktop-source-preview) | Selected Electron host and native Windows clock bridge source. |
-| [Web-client preview](https://github.com/pestypig/casimirbot-web-client-source-preview) | Selected React/TypeScript UI and tests. |
+| [Web-client preview](https://github.com/pestypig/casimirbot-web-client-source-preview) | 1,931 selected client code files, including UI and message catalogs. |
+| [Server source preview](https://github.com/pestypig/casimirbot-server-source-preview) | 1,309 selected server TypeScript files; source only, not a standalone deployment. |
 | [Discord preview](https://github.com/pestypig/casimirbot-discord-source-preview) | Selected transport and voice-worker source. |
 
 Each source repository describes its own build limits and third-party notices. The larger source-only previews are for inspection and reuse, not independently runnable CasimirBot installations. The public [Agent Access guide](https://casimirbot.com/agent-access) describes supported account-scoped connections; [public reasoning context](https://casimirbot.com/llms.txt) can be read without a private connection.
