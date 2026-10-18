@@ -2,9 +2,9 @@
 
 CasimirBot is a Windows research workstation and environment harness for working with AI inside real software. Its desktop brings together scientific tools, evidence views, account and connection checkpoints, and governed links to external programs. A supported AI client can inspect an admitted capability, receive an observation, and request a bounded operation when the account, program owner, and connector allow it.
 
-The [website](https://casimirbot.com/) handles CasimirBot account identity and public release information. The [download page](https://casimirbot.com/download) is the source for the signed Windows installer and its current publisher and checksum. The desktop screenshots on this page come from a separate **R173 isolated private developer build**. They show the design and current test workflow; they are not evidence that the public installer exposes every panel or that every connection is ready.
+The [website](https://casimirbot.com/) handles CasimirBot account identity and public release information. The [download page](https://casimirbot.com/download) is the source for the signed Windows installer and its current publisher and checksum. These desktop screenshots come from **R173 and R176 isolated private developer builds**. They show dated test workflows; they are not evidence that the public installer exposes every panel or that every connection is ready.
 
-![CasimirBot private R173 Home view](images/casimirbot-r173-home-2026-10-17.png)
+![CasimirBot private R176 Home view with read-only Adapter AI activity](images/casimirbot-r176-home-2026-10-18.jpg)
 
 ## How a workflow proceeds
 
@@ -13,6 +13,12 @@ The [website](https://casimirbot.com/) handles CasimirBot account identity and p
 3. **Check the environment.** Device Check shows connector identity, freshness, and local readiness. A Ready tunnel or supervisor does not prove that a remote client has authenticated, a device is paired, or an effect is allowed.
 4. **Ask for an observation or bounded action.** The AI client selects an available capability. CasimirBot checks identity, context, consent, and scope, then returns an observation or a typed result with postcondition evidence. Where a prerequisite is missing, the workflow should report that failure rather than inventing a successful action.
 5. **Inspect the evidence.** Research panels distinguish inputs, diagnostic models, calculated results, and verification receipts. A badge or screenshot does not establish a physical result.
+
+The October 18 **R176 private build** starts from Home with free personal tools, a user-owned AI connection, hosted rooms, and planned CasimirBot-managed AI. Its pictured Adapter AI pane is read-only run activity, with no current exact-task binding or verified run. The private environment catalog was unavailable in this isolated profile. The Minecraft Adapter tile is a developer path, not permission for player actions.
+
+R176 Desktop Updates showed the private development channel, R176 running, and R175 retained for rollback. This is a private-build state, not a signed public installer or a public update-channel acceptance result. Agent Access separately showed `build_unavailable` for the selected Personal Codex local entry and no verified current exact-task binding; Device Check showed 0 paired devices, no credentials projected, and its read-only local tunnel stopped.
+
+![CasimirBot private R176 Desktop Updates channel state](images/casimirbot-r176-desktop-updates-2026-10-18.jpg)
 
 The R173 Agent Access crop shows a real checkpoint state: the selected Personal Codex local entry reported `build_unavailable`, with the protected client read unverified. Saved pairing history and a locally Ready tunnel are separate from that selected route. The private conversation and pairing details are excluded from the image.
 
