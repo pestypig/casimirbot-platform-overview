@@ -67,6 +67,10 @@ The historical full-platform repository remains private while its reachable hist
 | [Web-client preview](https://github.com/pestypig/casimirbot-web-client-source-preview) | 1,931 selected client code files, including UI and message catalogs. |
 | [Server source preview](https://github.com/pestypig/casimirbot-server-source-preview) | 1,309 selected server TypeScript files; source only, not a standalone deployment. |
 | [Discord preview](https://github.com/pestypig/casimirbot-discord-source-preview) | Selected transport and voice-worker source. |
+| [General scripts preview](https://github.com/pestypig/casimirbot-scripts-source-preview) | 502 selected scripts; source only, not a supported runtime. |
+| [Selected tools preview](https://github.com/pestypig/casimirbot-tools-source-preview) | 111 selected research and verification tools; not a runnable toolchain. |
+| [Top-level test preview](https://github.com/pestypig/casimirbot-top-level-tests-source-preview) | 724 selected tests; not a standalone runnable suite. |
+| [Shared-linked test preview](https://github.com/pestypig/casimirbot-shared-linked-tests-source-preview) | 309 selected tests linked to public shared contracts; not a standalone suite. |
 
 Each source repository describes its own build limits and third-party notices. The larger source-only previews are for inspection and reuse, not independently runnable CasimirBot installations. The public [Agent Access guide](https://casimirbot.com/agent-access) describes supported account-scoped connections; [public reasoning context](https://casimirbot.com/llms.txt) can be read without a private connection.
 
