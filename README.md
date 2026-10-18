@@ -77,7 +77,7 @@ The historical full-platform repository remains private while its reachable hist
 | [Top-level test preview](https://github.com/pestypig/casimirbot-top-level-tests-source-preview) | 724 selected tests; not a standalone runnable suite. |
 | [Shared-linked test preview](https://github.com/pestypig/casimirbot-shared-linked-tests-source-preview) | 309 selected tests linked to public shared contracts; not a standalone suite. |
 | [Research Python preview](https://github.com/pestypig/casimirbot-research-python-source-preview) | 359 first-party Python files; upstream archives excluded, no scientific proof claim. |
-| [Server test preview](https://github.com/pestypig/casimirbot-server-tests-source-preview) | 1,372 selected tests; six unverified scholarly URL session values replaced with synthetic fixtures; held auth/scanner paths excluded. |
+| [Server test preview](https://github.com/pestypig/casimirbot-server-tests-source-preview) | 1,389 selected tests; six unverified scholarly URL session values replaced with synthetic fixtures and 17 Helix Ask tests separately reviewed; other held auth/scanner paths excluded. |
 | [NHM2 script preview](https://github.com/pestypig/casimirbot-nhm2-scripts-source-preview) | 445 selected first-party research scripts; source only, no proof or viability claim. |
 | [NHM2 tool preview](https://github.com/pestypig/casimirbot-nhm2-tools-source-preview) | 632 selected first-party research tools; external dependencies excluded, P8Q remains proposal preparation. |
 | [Environment package scripts preview](https://github.com/pestypig/casimirbot-environment-package-scripts-source-preview) | 28 selected first-party tooling files; source only, no private evaluation package or installed connector. |
