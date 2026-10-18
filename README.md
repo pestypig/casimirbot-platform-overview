@@ -18,6 +18,10 @@ The R173 Agent Access crop shows a real checkpoint state: the selected Personal 
 
 ![CasimirBot private R173 Agent Access connection checkpoints](images/casimirbot-r173-agent-access-checkpoints-2026-10-17.png)
 
+The R173 Device Check crop shows **0 paired devices**, **no credentials projected**, and a locally Ready developer tunnel. Its `Full developer MCP` label describes the local tunnel mode. The panel directs remote MCP check-in to Agent Access; this screenshot does not show a remote client check-in, a paired device, or permission for an external program action.
+
+![CasimirBot private R173 Device Check local tunnel status](images/casimirbot-r173-device-check-tunnel-2026-10-17.png)
+
 ## What people can explore
 
 The Home view groups **free personal tools**, **your AI connection**, **hosted rooms**, and a planned CasimirBot-managed AI path. Hosted collaboration and managed AI have separate release and account conditions. The workstation also contains research views such as Star Watcher, Theory Badge Graph, and Contribution Workbench.
