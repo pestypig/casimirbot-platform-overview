@@ -69,7 +69,7 @@ The historical full-platform repository remains private while its reachable hist
 | [Shared TypeScript preview](https://github.com/pestypig/casimirbot-shared-source-preview) | Selected shared contracts, policies, research metadata, and tests. |
 | [Desktop host preview](https://github.com/pestypig/casimirbot-desktop-source-preview) | Selected Electron host and native Windows clock bridge source. |
 | [Web-client preview](https://github.com/pestypig/casimirbot-web-client-source-preview) | 1,931 selected client code files, including UI and message catalogs. |
-| [Server source preview](https://github.com/pestypig/casimirbot-server-source-preview) | 1,325 selected server TypeScript files, including a 16-file Essence addendum; source only, not a standalone deployment. |
+| [Server source preview](https://github.com/pestypig/casimirbot-server-source-preview) | 1,337 selected server TypeScript files, including a 16-file Essence addendum and 12 reviewed held-source files; source only, not a standalone deployment or live-auth assurance. |
 | [Server database migration preview](https://github.com/pestypig/casimirbot-server-db-migrations-source-preview) | 144 selected TypeScript schema and backfill files; no data, migration runner, or live-auth assurance. |
 | [Discord preview](https://github.com/pestypig/casimirbot-discord-source-preview) | Selected transport and voice-worker source. |
 | [General scripts preview](https://github.com/pestypig/casimirbot-scripts-source-preview) | 502 selected scripts; source only, not a supported runtime. |
